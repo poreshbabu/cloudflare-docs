@@ -8,7 +8,7 @@
 	"devDependencies": {
 		"@actions/core": "3.0.0",
 		"@actions/github": "9.0.0",
-		"esbuild": "0.14.39"
+		"esbuild": "0.25.0"
 	},
 	"dependencies": {
 		"codeowners-utils": "^1.0.2"
